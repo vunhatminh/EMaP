@@ -1,0 +1,10 @@
+EXPERIMENT:  mnist
+RADIUS:  1e-05
+DIM:  2
+SIM_SIGMA:  1.0
+Loading mnist
+Done loading
+pretrained/mnistCNN.pt
+Done loading model
+Initializing LIME
+Save file to explainer_evaluation

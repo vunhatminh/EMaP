@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "emap_experiments.py", line 96, in <module>
+    main()
+  File "emap_experiments.py", line 31, in main
+    evaluator.load_datasets([dataset])
+  File "/blue/thai/minhvu/manifold_sampling/lime-experiments-master/evaluate_explanations.py", line 63, in load_datasets
+    self.train_data[dataset], self.train_labels[dataset], self.test_data[dataset], self.test_labels[dataset], _ = LoadDataset(dataset)
+  File "/blue/thai/minhvu/manifold_sampling/lime-experiments-master/load_datasets.py", line 31, in LoadDataset
+    return LoadMultiDomainDataset(POLARITY_PATH + name)
+  File "/blue/thai/minhvu/manifold_sampling/lime-experiments-master/load_datasets.py", line 43, in LoadMultiDomainDataset
+    for line in open(os.path.join(path_data, 'negative.review')):
+FileNotFoundError: [Errno 2] No such file or directory: 'processed_acl/dvds/negative.review'

@@ -1,0 +1,1076 @@
+Loading fashion mnist
+Done loading
+UMAP duration:  69.05112171173096
+Number of images for perturbations:  100
+***Checking std***
+0.17779164911044618
+0.1777512262606688
+Save file to  results/discriminator/accuracy_on_fashion_mnist_noise_0.01_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  66.82832622528076
+Number of images for perturbations:  100
+***Checking std***
+0.1888457028655553
+0.18918840890511937
+Save file to  results/discriminator/accuracy_on_fashion_mnist_noise_0.1_.pickle
+Loading mnist
+Downloading http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz to ./data/MNIST/raw/train-images-idx3-ubyte.gz
+0it [00:00, ?it/s]  2%|▏         | 237568/9912422 [00:00<00:04, 2357873.00it/s]Extracting ./data/MNIST/raw/train-images-idx3-ubyte.gz to ./data/MNIST/raw
+Downloading http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz to ./data/MNIST/raw/train-labels-idx1-ubyte.gz
+
+0it [00:00, ?it/s][AExtracting ./data/MNIST/raw/train-labels-idx1-ubyte.gz to ./data/MNIST/raw
+Downloading http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz to ./data/MNIST/raw/t10k-images-idx3-ubyte.gz
+
+
+0it [00:00, ?it/s][A[A
+
+ 61%|██████    | 1007616/1648877 [00:00<00:00, 10058734.76it/s][A[AExtracting ./data/MNIST/raw/t10k-images-idx3-ubyte.gz to ./data/MNIST/raw
+Downloading http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz to ./data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+
+
+
+0it [00:00, ?it/s][A[A[A/home/minhvu/blue_minhvu/Python_geometric/lib/python3.8/site-packages/torchvision/datasets/mnist.py:480: UserWarning: The given NumPy array is not writeable, and PyTorch does not support non-writeable tensors. This means you can write to the underlying (supposedly non-writeable) NumPy array using the tensor. You may want to copy the array to protect its data or make it writeable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at  /opt/conda/conda-bld/pytorch_1603729096996/work/torch/csrc/utils/tensor_numpy.cpp:141.)
+  return torch.from_numpy(parsed.astype(m[2], copy=False)).view(*s)
+32768it [00:00, 67745.70it/s]
+1654784it [00:00, 3870647.56it/s]                              
+8192it [00:00, 30791.83it/s]
+9920512it [00:00, 10387439.89it/s]                           
+Extracting ./data/MNIST/raw/t10k-labels-idx1-ubyte.gz to ./data/MNIST/raw
+Processing...
+Done!
+Done loading
+UMAP duration:  66.4849328994751
+Number of images for perturbations:  100
+***Checking std***
+0.18552732866630328
+0.18449727378542427
+Save file to  results/discriminator/accuracy_on_mnist_noise_0.01_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  68.47420358657837
+Number of images for perturbations:  100
+***Checking std***
+0.17981452184050248
+0.18035661802569633
+Save file to  results/discriminator/accuracy_on_fashion_mnist_noise_0.001_.pickle
+Loading mnist
+Done loading
+UMAP duration:  63.480764389038086
+Number of images for perturbations:  100
+***Checking std***
+0.18855935091961687
+0.1887935874463818
+Save file to  results/discriminator/accuracy_on_mnist_noise_0.1_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  68.01260828971863
+Number of images for perturbations:  100
+***Checking std***
+0.25189175708583317
+0.2514816068222174
+Save file to  results/discriminator/accuracy_on_fashion_mnist_noise_1.0_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  70.58799743652344
+Number of images for perturbations:  100
+***Checking std***
+0.32879053467888564
+0.3298076463326994
+Save file to  results/discriminator/accuracy_on_fashion_mnist_noise_5.0_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  68.67219090461731
+Number of images for perturbations:  100
+***Checking std***
+0.3495888091277216
+0.349077335146994
+Save file to  results/discriminator/accuracy_on_fashion_mnist_noise_10.0_.pickle
+Loading mnist
+Done loading
+UMAP duration:  66.47568607330322
+Number of images for perturbations:  100
+***Checking std***
+0.2388481291609426
+0.23990376191198243
+Save file to  results/discriminator/accuracy_on_mnist_noise_1.0_.pickle
+Loading mnist
+Done loading
+UMAP duration:  66.62236857414246
+Number of images for perturbations:  100
+***Checking std***
+0.2784507847195221
+0.279482338649991
+Save file to  results/discriminator/accuracy_on_mnist_noise_5.0_.pickle
+Loading mnist
+Done loading
+UMAP duration:  67.1602041721344
+Number of images for perturbations:  100
+***Checking std***
+0.2810059919448129
+0.28140901541176766
+Save file to  results/discriminator/accuracy_on_mnist_noise_10.0_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  75.71258854866028
+Number of images for perturbations:  100
+***Checking std***
+0.19793611773895692
+0.19790028145767485
+Save file to  results/discriminator/accuracy_on_fashion_mnist_dim_4_noise_0.01_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  74.77447462081909
+Number of images for perturbations:  100
+***Checking std***
+0.21771129867748798
+0.21728413293524998
+Save file to  results/discriminator/accuracy_on_fashion_mnist_dim_4_noise_0.1_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  76.37090063095093
+Number of images for perturbations:  100
+***Checking std***
+0.2859627540567574
+0.28563349322188575
+Save file to  results/discriminator/accuracy_on_fashion_mnist_dim_4_noise_1.0_.pickle
+Loading fashion mnist
+Done loading
+UMAP duration:  78.87217974662781
+Number of images for perturbations:  100
+***Checking std***
+0.3075862202876192
+0.3073583853097576
+Save file to  results/discriminator/accuracy_on_fashion_mnist_dim_4_noise_5.0_.pickle
+Loading mnist
+Done loading
+UMAP duration:  74.26255893707275
+Number of images for perturbations:  100
+***Checking std***
+0.17994103995919095
+0.18018106743155243
+Save file to  results/discriminator/accuracy_on_mnist_dim_4_noise_0.01_.pickle
+Loading mnist
+Done loading
+UMAP duration:  74.28948593139648
+Number of images for perturbations:  100
+***Checking std***
+0.20132123161892762
+0.2014095919819572
+Save file to  results/discriminator/accuracy_on_mnist_dim_4_noise_0.1_.pickle
+Loading mnist
+Done loading
+UMAP duration:  75.26685929298401
+Number of images for perturbations:  100
+***Checking std***
+0.2454620458268946
+0.2446334310151016
+Save file to  results/discriminator/accuracy_on_mnist_dim_4_noise_1.0_.pickle
+Loading mnist
+Done loading
+UMAP duration:  76.61345505714417
+Number of images for perturbations:  100
+***Checking std***
+0.2891597068857852
+0.2887842203549108
+Save file to  results/discriminator/accuracy_on_mnist_dim_4_noise_5.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  73.61674404144287
+Train duration:  164.46607398986816
+1.0 100
+1.0 100
+0.99 100
+Create Testing environment
+Initialize duration:  58.81312608718872
+Train duration:  155.53885221481323
+Save file to  results/discriminator/fashion_mnist_dim_2_std_0.01_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  75.30737519264221
+Train duration:  167.6123583316803
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  55.49154281616211
+Train duration:  163.22284388542175
+Save file to  results/discriminator/fashion_mnist_dim_2_std_0.1_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  76.85688519477844
+Train duration:  237.45109462738037
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  57.254929065704346
+Train duration:  223.01949071884155
+Save file to  results/discriminator/fashion_mnist_dim_2_std_1.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  82.98179936408997
+Train duration:  186.01849579811096
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  63.37932777404785
+Train duration:  176.41303515434265
+Save file to  results/discriminator/fashion_mnist_dim_4_std_0.01_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  81.44197177886963
+Train duration:  182.95110821723938
+1.0 100
+0.99 100
+1.0 100
+Create Testing environment
+Initialize duration:  62.784406900405884
+Train duration:  186.4825954437256
+Save file to  results/discriminator/fashion_mnist_dim_4_std_0.1_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  80.50282502174377
+Train duration:  225.4259922504425
+1.0 100
+0.99 100
+1.0 100
+Create Testing environment
+Initialize duration:  61.70086216926575
+Train duration:  245.23882412910461
+Save file to  results/discriminator/fashion_mnist_dim_4_std_1.0_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  75.39877271652222
+Train duration:  175.4150812625885
+1.0 100
+0.97 100
+1.0 100
+Create Testing environment
+Initialize duration:  55.151511669158936
+Train duration:  167.9141013622284
+Save file to  results/discriminator/mnist_dim_2_std_0.01_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  71.00885891914368
+Train duration:  157.63493633270264
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  55.27275204658508
+Train duration:  174.6582384109497
+Save file to  results/discriminator/mnist_dim_2_std_0.1_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  72.96048784255981
+Train duration:  427.0449459552765
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  53.30127739906311
+Train duration:  425.2696533203125
+Save file to  results/discriminator/mnist_dim_2_std_1.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  81.18264651298523
+Train duration:  184.5439248085022
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  61.3057599067688
+Train duration:  180.29439330101013
+Save file to  results/discriminator/fashion_mnist_dim_3_std_0.01_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  77.52089309692383
+Train duration:  187.65394377708435
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  58.93603825569153
+Train duration:  182.67114901542664
+Save file to  results/discriminator/mnist_dim_4_std_0.01_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  81.63249063491821
+Train duration:  186.23660349845886
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  59.81764364242554
+Train duration:  184.43874788284302
+Save file to  results/discriminator/fashion_mnist_dim_3_std_0.1_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  78.58365654945374
+Train duration:  175.75434231758118
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  60.2144558429718
+Train duration:  174.93582010269165
+Save file to  results/discriminator/mnist_dim_4_std_0.1_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  84.71908950805664
+Train duration:  242.6887104511261
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  63.266207218170166
+Train duration:  237.64413595199585
+Save file to  results/discriminator/fashion_mnist_dim_3_std_1.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.2
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  76.15859055519104
+Train duration:  167.19852209091187
+0.99 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  57.06834626197815
+Train duration:  183.62854933738708
+Save file to  results/discriminator/fashion_mnist_dim_2_std_0.2_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.2
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  78.26166033744812
+Train duration:  171.46729254722595
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  60.14885473251343
+Train duration:  171.99555492401123
+Save file to  results/discriminator/fashion_mnist_dim_3_std_0.2_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  82.91060900688171
+Train duration:  552.3433301448822
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  61.04599690437317
+Train duration:  517.9623837471008
+Save file to  results/discriminator/mnist_dim_4_std_1.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.2
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  83.20973038673401
+Train duration:  194.1313238143921
+1.0 100
+1.0 100
+0.99 100
+Create Testing environment
+Initialize duration:  63.46927070617676
+Train duration:  188.03050231933594
+Save file to  results/discriminator/fashion_mnist_dim_4_std_0.2_.pickle
+EXPERIMENT:  compass
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  20
+Data shape:  (6172, 9)
+Initialize duration:  32.88125419616699
+Train duration:  65.84533047676086
+1.0 72
+1.0 72
+1.0 72
+0.75 72
+Create Testing environment
+Initialize duration:  11.686756372451782
+Train duration:  58.83928346633911
+Save file to  results/discriminator/compass_dim_2_std_0.01_.pickle
+EXPERIMENT:  compass
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  20
+Data shape:  (6172, 9)
+Initialize duration:  32.94659781455994
+Train duration:  63.494380235672
+1.0 72
+1.0 72
+1.0 72
+0.75 72
+Create Testing environment
+Initialize duration:  11.579931735992432
+Train duration:  58.44404101371765
+Save file to  results/discriminator/compass_dim_2_std_0.1_.pickle
+EXPERIMENT:  compass
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  20
+Data shape:  (6172, 9)
+Initialize duration:  32.77779841423035
+Train duration:  71.81730508804321
+1.0 72
+1.0 72
+1.0 72
+0.75 72
+Create Testing environment
+Initialize duration:  11.68206262588501
+Train duration:  60.43214464187622
+Save file to  results/discriminator/compass_dim_2_std_1.0_.pickle
+EXPERIMENT:  german
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  20
+Data shape:  (1000, 28)
+Initialize duration:  5.665980339050293
+Train duration:  68.34631752967834
+1.0 72
+1.0 72
+1.0 72
+1.0 72
+Create Testing environment
+Initialize duration:  2.6906206607818604
+Train duration:  62.85842704772949
+Save file to  results/discriminator/german_dim_2_std_0.01_.pickle
+EXPERIMENT:  german
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  20
+Data shape:  (1000, 28)
+Initialize duration:  5.809994459152222
+Train duration:  65.67183780670166
+1.0 72
+1.0 72
+1.0 72
+1.0 72
+Create Testing environment
+Initialize duration:  2.6828062534332275
+Train duration:  63.06624674797058
+Save file to  results/discriminator/german_dim_2_std_0.1_.pickle
+EXPERIMENT:  german
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  20
+Data shape:  (1000, 28)
+Initialize duration:  5.7361226081848145
+Train duration:  69.26590585708618
+1.0 72
+1.0 72
+1.0 72
+1.0 72
+Create Testing environment
+Initialize duration:  2.7373199462890625
+Train duration:  67.21803593635559
+Save file to  results/discriminator/german_dim_2_std_1.0_.pickle
+EXPERIMENT:  german
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  3
+PIVOTS:  20
+Data shape:  (1000, 28)
+Initialize duration:  5.744351625442505
+Train duration:  66.26739573478699
+1.0 72
+1.0 72
+1.0 72
+1.0 72
+Create Testing environment
+Initialize duration:  2.7591183185577393
+Train duration:  64.52188754081726
+Save file to  results/discriminator/german_dim_3_std_0.01_.pickle
+EXPERIMENT:  german
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  3
+PIVOTS:  20
+Data shape:  (1000, 28)
+Initialize duration:  5.821229457855225
+Train duration:  71.50300979614258
+1.0 72
+1.0 72
+1.0 72
+1.0 72
+Create Testing environment
+Initialize duration:  2.7825140953063965
+Train duration:  65.6656551361084
+Save file to  results/discriminator/german_dim_3_std_0.1_.pickle
+EXPERIMENT:  german
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  3
+PIVOTS:  20
+Data shape:  (1000, 28)
+Initialize duration:  5.684472560882568
+Train duration:  69.53611540794373
+1.0 72
+1.0 72
+1.0 72
+1.0 72
+Create Testing environment
+Initialize duration:  2.7744531631469727
+Train duration:  66.86651849746704
+Save file to  results/discriminator/german_dim_3_std_1.0_.pickle
+EXPERIMENT:  cc
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  20
+Data shape:  (1994, 100)
+Initialize duration:  9.091500043869019
+Train duration:  75.26909565925598
+0.25 72
+0.0 72
+0.125 72
+0.75 72
+Create Testing environment
+Initialize duration:  5.9026384353637695
+Train duration:  73.09129667282104
+Save file to  results/discriminator/cc_dim_2_std_0.01_.pickle
+EXPERIMENT:  cc
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  20
+Data shape:  (1994, 100)
+Initialize duration:  9.161090850830078
+Train duration:  78.02952671051025
+0.75 72
+0.125 72
+0.25 72
+1.0 72
+Create Testing environment
+Initialize duration:  5.870100975036621
+Train duration:  71.41826891899109
+Save file to  results/discriminator/cc_dim_2_std_0.1_.pickle
+EXPERIMENT:  cc
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  20
+Data shape:  (1994, 100)
+Initialize duration:  9.092489004135132
+Train duration:  82.9349205493927
+1.0 72
+0.75 72
+0.375 72
+1.0 72
+Create Testing environment
+Initialize duration:  5.969295024871826
+Train duration:  76.53197860717773
+Save file to  results/discriminator/cc_dim_2_std_1.0_.pickle
+EXPERIMENT:  cc
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  4
+PIVOTS:  20
+Data shape:  (1994, 100)
+Initialize duration:  9.590704202651978
+Train duration:  81.10620212554932
+0.25 72
+0.0 72
+0.125 72
+0.75 72
+Create Testing environment
+Initialize duration:  6.285505533218384
+Train duration:  78.70461130142212
+Save file to  results/discriminator/cc_dim_4_std_0.01_.pickle
+EXPERIMENT:  cc
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  4
+PIVOTS:  20
+Data shape:  (1994, 100)
+Initialize duration:  9.754417419433594
+Train duration:  81.98042488098145
+0.75 72
+0.375 72
+0.25 72
+1.0 72
+Create Testing environment
+Initialize duration:  6.247305393218994
+Train duration:  78.95795392990112
+Save file to  results/discriminator/cc_dim_4_std_0.1_.pickle
+EXPERIMENT:  cc
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  4
+PIVOTS:  20
+Data shape:  (1994, 100)
+Initialize duration:  9.47739553451538
+Train duration:  85.86426591873169
+1.0 72
+0.625 72
+0.875 72
+1.0 72
+Create Testing environment
+Initialize duration:  6.289487361907959
+Train duration:  82.42240858078003
+Save file to  results/discriminator/cc_dim_4_std_1.0_.pickle
+EXPERIMENT:  compass
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  20
+Data shape:  (6172, 9)
+Initialize duration:  33.26791834831238
+Train duration:  67.05053877830505
+1.0 72
+1.0 72
+1.0 72
+0.75 72
+Create Testing environment
+Initialize duration:  11.704768657684326
+Train duration:  61.54348587989807
+Save file to  results/discriminator/compass_dim_2_std_0.01_.pickle
+EXPERIMENT:  compass
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  20
+Data shape:  (6172, 9)
+Initialize duration:  33.276132583618164
+Train duration:  64.8742208480835
+1.0 72
+1.0 72
+1.0 72
+0.75 72
+Create Testing environment
+Initialize duration:  11.656232595443726
+Train duration:  59.59225344657898
+Save file to  results/discriminator/compass_dim_2_std_0.1_.pickle
+EXPERIMENT:  compass
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  20
+Data shape:  (6172, 9)
+Initialize duration:  33.997987270355225
+Train duration:  70.71925926208496
+1.0 72
+1.0 72
+1.0 72
+0.75 72
+Create Testing environment
+Initialize duration:  11.492183923721313
+Train duration:  65.20795559883118
+Save file to  results/discriminator/compass_dim_2_std_1.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  78.50413465499878
+Train duration:  173.67009043693542
+1.0 100
+0.99 100
+1.0 100
+Create Testing environment
+Initialize duration:  57.47605872154236
+Train duration:  168.856538772583
+Save file to  results/discriminator/fashion_mnist_dim_2_std_0.01_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  78.94511485099792
+Train duration:  168.68454027175903
+1.0 100
+0.99 100
+0.99 100
+Create Testing environment
+Initialize duration:  58.17198038101196
+Train duration:  177.91876602172852
+Save file to  results/discriminator/fashion_mnist_dim_2_std_0.1_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.2
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  81.70508766174316
+Train duration:  177.9633867740631
+1.0 100
+1.0 100
+0.98 100
+Create Testing environment
+Initialize duration:  57.478248834609985
+Train duration:  185.09170579910278
+Save file to  results/discriminator/fashion_mnist_dim_2_std_0.2_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  78.84977722167969
+Train duration:  230.05204844474792
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  56.25305986404419
+Train duration:  235.6193494796753
+Save file to  results/discriminator/fashion_mnist_dim_2_std_1.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  84.26884460449219
+Train duration:  180.42546248435974
+1.0 100
+0.99 100
+1.0 100
+Create Testing environment
+Initialize duration:  60.76868724822998
+Train duration:  167.77305364608765
+Save file to  results/discriminator/fashion_mnist_dim_3_std_0.01_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  86.218674659729
+Train duration:  187.30820870399475
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  59.97269248962402
+Train duration:  184.84025120735168
+Save file to  results/discriminator/fashion_mnist_dim_3_std_0.1_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.2
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  84.29833197593689
+Train duration:  191.3692328929901
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  59.820332050323486
+Train duration:  168.7058925628662
+Save file to  results/discriminator/fashion_mnist_dim_3_std_0.2_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  3
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  83.94365453720093
+Train duration:  234.60990500450134
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  58.90877151489258
+Train duration:  240.9641797542572
+Save file to  results/discriminator/fashion_mnist_dim_3_std_1.0_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  89.46961855888367
+Train duration:  189.71705651283264
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  64.08676052093506
+Train duration:  181.00596570968628
+Save file to  results/discriminator/fashion_mnist_dim_4_std_0.01_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  87.42592430114746
+Train duration:  202.14327025413513
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  64.08556866645813
+Train duration:  192.98269963264465
+Save file to  results/discriminator/fashion_mnist_dim_4_std_0.1_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.2
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  87.57972955703735
+Train duration:  183.02410769462585
+1.0 100
+1.0 100
+0.99 100
+Create Testing environment
+Initialize duration:  62.22746515274048
+Train duration:  195.29351544380188
+Save file to  results/discriminator/fashion_mnist_dim_4_std_0.2_.pickle
+EXPERIMENT:  fashion_mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading fashion mnist
+Done loading
+Initialize duration:  85.07787537574768
+Train duration:  257.80760884284973
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  64.8621768951416
+Train duration:  241.24202156066895
+Save file to  results/discriminator/fashion_mnist_dim_4_std_1.0_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  97.1160728931427
+Train duration:  192.6110761165619
+1.0 100
+0.99 100
+1.0 100
+Create Testing environment
+Initialize duration:  53.963544607162476
+Train duration:  160.62260794639587
+Save file to  results/discriminator/mnist_dim_2_std_0.01_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  115.74544763565063
+Train duration:  178.38057017326355
+1.0 100
+0.99 100
+1.0 100
+Create Testing environment
+Initialize duration:  53.468650102615356
+Train duration:  180.3424415588379
+Save file to  results/discriminator/mnist_dim_2_std_0.1_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  2
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  165.80333828926086
+Train duration:  603.4325351715088
+0.99 100
+0.99 100
+1.0 100
+Create Testing environment
+Initialize duration:  55.79632616043091
+Train duration:  583.5842158794403
+Save file to  results/discriminator/mnist_dim_2_std_1.0_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.01
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  179.99640679359436
+Train duration:  212.5476405620575
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  61.601216316223145
+Train duration:  190.31272649765015
+Save file to  results/discriminator/mnist_dim_4_std_0.01_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  0.1
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  187.87416768074036
+Train duration:  220.6538028717041
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  61.210071086883545
+Train duration:  204.40509128570557
+Save file to  results/discriminator/mnist_dim_4_std_0.1_.pickle
+EXPERIMENT:  mnist
+MULTIPLIER:  100
+PERTURBATION_STD:  1.0
+DIM:  4
+PIVOTS:  10
+SHUFFLE:  True
+Loading mnist
+Done loading
+Initialize duration:  169.7530641555786
+Train duration:  642.9685463905334
+1.0 100
+1.0 100
+1.0 100
+Create Testing environment
+Initialize duration:  59.3371307849884
+Train duration:  516.9800493717194
+Save file to  results/discriminator/mnist_dim_4_std_1.0_.pickle
